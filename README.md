@@ -35,8 +35,9 @@ How it looks like on Mobile
 
 <p align ="center">
 
-![QR-image](/images/QR-Code%20Mobile%20Result.jpeg)
+ ![QR-Mobile](/images/MobileResult.PNG)
 </p>
+
 
 ### Links
 

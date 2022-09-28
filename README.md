@@ -20,8 +20,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+<p align ="center">
 How it looks like on desktop
-![QR-image](/images/QR-code-DesktopResult.PNG)
+</p>
+
+<p align ="center">
+
+![QR-image](/images/DesktopResult.PNG)
+</p>
+
+<p align = "center">
+How it looks like on Mobile
+</p>
+
+<p align ="center">
+
+![QR-image](/images/QR-Code%20Mobile%20Result.jpeg)
+</p>
 
 ### Links
 
